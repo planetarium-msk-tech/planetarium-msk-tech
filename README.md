@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-## Git profile for Moscow Planetarium Tech Department
+### Git profile for Moscow Planetarium Tech Department
 
-# Code, backup and some meme stuff
+### Code, backup and some meme stuff
 
 <!--
 **planetarium-msk-tech/planetarium-msk-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
